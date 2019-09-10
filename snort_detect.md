@@ -22,6 +22,16 @@ snort中负责管理多模式匹配的源文件是mpse.h(multiple pattern search
 #define MPSE_LOWMEM_Q  13 //硬件加速  http://www.voidcn.com/article/p-rguwsyeb-bdg.html
 ```
 
-### AC 算法
+
+
+
+
+
+
+
+
+
+
+### AC算法
 
 AC ( Aho-Corasick)算法
