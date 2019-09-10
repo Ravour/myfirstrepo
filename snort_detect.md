@@ -1,5 +1,5 @@
 * ## [snort匹配引擎概述](#snort匹配引擎概述) 
-* ## [AC算法](#ACB算法)
+* ## [AC算法](#AC算法)
 
 ### snort匹配引擎概述
 snort中负责管理多模式匹配的源文件是mpse.h(multiple pattern search engine),对用于匹配的算法进行选择。
@@ -32,6 +32,6 @@ snort中负责管理多模式匹配的源文件是mpse.h(multiple pattern search
 
 
 
-### ACB算法
+### AC算法
 
 AC ( Aho-Corasick)算法
